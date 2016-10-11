@@ -1,0 +1,9 @@
+Script started on Mon 03 Feb 2014 09:27:55 PM NST
+softskeleton@softskeleton:~/workspace/Filter/src$ java WordFilter
+Please enter a list of words to filter, separated by spaces.
+egg pen origami collider
+[egg, pen]
+softskeleton@softskeleton:~/workspace/Filter/src$ exit
+exit
+
+Script done on Mon 03 Feb 2014 09:28:48 PM NST
